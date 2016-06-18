@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- 服务端保存配对日志文件的文件名 -->
+	<logrecfile>server-logs.txt</logrecfile>
+	<!-- 线程池线程数量 -->
+	<threadsum>30</threadsum>
+	<!-- 服务端端口 -->
+	<serverport>8088</serverport>
+</config>
+
+
+
+
+
+
+
+
